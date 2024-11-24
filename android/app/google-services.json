@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704172316430",
+    "project_id": "mbk-mall-labs",
+    "storage_bucket": "mbk-mall-labs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704172316430:android:990a1d76ac3f87badc295f",
+        "android_client_info": {
+          "package_name": "com.mbkmalllabs.fluttertest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6H0XCNLVoVfzVe48Pmqsz1pJBRZtOfcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
